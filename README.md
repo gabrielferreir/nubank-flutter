@@ -1,3 +1,9 @@
 # Nu Conta
 
-![](https://raw.githubusercontent.com/gabrielferreir/nuconta-flutter/master/screenshot.gif | width=200)
+
+
+{::nomarkdown}
+
+<img src="https://raw.githubusercontent.com/gabrielferreir/nuconta-flutter/master/screenshot.gif" width="300" />
+
+{:/}
